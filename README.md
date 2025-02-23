@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript example demonstrating a divide-by-zero error and its solution. The `bug.js` file shows the error, while `bugSolution.js` provides a corrected version.  The error arises from not properly handling the case where the divisor is zero, which results in an exception being thrown. The solution handles this exception appropriately.
